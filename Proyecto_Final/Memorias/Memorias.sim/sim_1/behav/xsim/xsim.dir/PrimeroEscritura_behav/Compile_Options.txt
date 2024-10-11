@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "PrimeroEscritura_behav" "xil_defaultlib.PrimeroEscritura" -log "elaborate.log" 

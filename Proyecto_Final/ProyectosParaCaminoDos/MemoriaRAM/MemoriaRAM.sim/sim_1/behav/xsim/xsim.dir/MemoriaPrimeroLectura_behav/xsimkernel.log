@@ -1,0 +1,7 @@
+Running: xsim.dir/MemoriaPrimeroLectura_behav/xsimk.exe -simmode gui -wdb MemoriaPrimeroLectura_behav.wdb -simrunnum 0 -socket 60165
+Design successfully loaded
+Design Loading Memory Usage: 8424 KB (Peak: 8424 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 8888 KB (Peak: 8888 KB)
+Simulation CPU Usage: 31 ms

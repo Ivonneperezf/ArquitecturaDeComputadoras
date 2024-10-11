@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "NoCambio_behav" "xil_defaultlib.NoCambio" -log "elaborate.log" 
