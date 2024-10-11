@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "ControlALU_behav" "xil_defaultlib.ControlALU" -log "elaborate.log" 

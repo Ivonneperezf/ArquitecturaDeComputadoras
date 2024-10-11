@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "DecodificadorInstrucciones_behav" "xil_defaultlib.DecodificadorInstrucciones" -log "elaborate.log" 

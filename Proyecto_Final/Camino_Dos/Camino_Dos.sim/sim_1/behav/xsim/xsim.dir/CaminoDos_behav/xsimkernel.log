@@ -1,0 +1,7 @@
+Running: xsim.dir/CaminoDos_behav/xsimk.exe -simmode gui -wdb CaminoDos_behav.wdb -simrunnum 0 -socket 57385
+Design successfully loaded
+Design Loading Memory Usage: 8352 KB (Peak: 8352 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 16972 KB (Peak: 16972 KB)
+Simulation CPU Usage: 312 ms
